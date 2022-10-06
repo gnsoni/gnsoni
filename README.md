@@ -1,6 +1,6 @@
 <h3 align="center">A passionate full stack developer / software consultant</h3>
 
-- 🔭 I am working as full stack for my own project, which I am migrating from VB6 to ASP.Net core and running on linux server with nginx proxy. [MarketPlusXP](marketplusxp.com)
+- 🔭 I am working as full stack for my own project, which I am migrating from VB6 to ASP.Net core and running on linux server with nginx proxy. [MarketPlusXP](https://marketplusxp.com)
 
 - 📫 Linked in **https://uk.linkedin.com/in/gnsoni**
 
