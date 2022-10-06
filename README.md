@@ -1,4 +1,4 @@
-<h3 align="center">A passionate full stack developer / software consultant</h3>
+<h2 align="center">A passionate full stack developer / software consultant</h2>
 
 - 🔭 I am working as full stack for my own project, which I am migrating from VB6 to ASP.Net core and running on linux server with nginx proxy. [MarketPlusXP](https://marketplusxp.com)
 
@@ -6,7 +6,7 @@
 
 - ⚡ Lerner **Curious Lerner about technology.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Visit LinkedIn for professional and work:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gnsoni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gnsoni" height="30" width="40" /></a>
 </p>
