@@ -15,9 +15,6 @@
     <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"><img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"
             alt="dotnet" width="40" height="40" /></a>
-    <a href="https://go.dev/" target="_blank" rel="noreferrer"><img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="Go"
-            width="40" height="40" /></a>
 </p>
 <h4 style="text-indent: 1em;" align="left">Comfortable with:</h4>
 <p style="text-indent: 3em;" align="left">
@@ -29,6 +26,9 @@
             alt="cplusplus" width="40" height="40" /></a>
     <a href="https://www.java.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
+            width="40" height="40" /></a>
+    <a href="https://go.dev/" target="_blank" rel="noreferrer"><img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="Go"
             width="40" height="40" /></a>
 </p>
 
